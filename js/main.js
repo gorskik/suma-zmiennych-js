@@ -7,3 +7,5 @@ function multiply(num1, num2) {
 
     return suma;
 }
+
+console.log(suma);
